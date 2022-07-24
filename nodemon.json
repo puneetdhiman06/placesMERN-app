@@ -1,0 +1,7 @@
+{
+    "env":{
+        "DB_USER":"newPuneet",
+        "DB_PASSWORD":"88266",
+        "DB_NAME":"mern"
+    }
+}
